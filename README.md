@@ -27,4 +27,4 @@ Users should be able to:
 
 ### What I learned
 
-In this challenge I learned more about positioning elements with ::before and ::after pseudo elements. I played with top, bottom, left, and right settings why trying to match the design. I also used transform: translateX and Y to move elements around.
+In this challenge I learned more about positioning elements with ::before and ::after pseudo elements. I played with top, bottom, left, and right settings when trying to match the design. I also used transform: translateX and Y to move elements around.
